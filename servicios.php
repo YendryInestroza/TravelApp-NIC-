@@ -132,16 +132,16 @@
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-md-3">
-                            <a href="#"><img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt=""></a>
+                            <img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt="">
                         </div>
                         <div class="col-md-3">
-                            <a href="#"><img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt=""></a>
+                            <img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt="">
                         </div>
                         <div class="col-md-3">
-                            <a href="#"><img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt=""></a>
+                           <img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt="">
                         </div>
                         <div class="col-md-3">
-                            <a href="#"><img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt=""></a>
+                            <img src="img/hostales.jpg" id="res-hoteles" class="img-fluid" alt="">
                         </div>
                     </div>
                 </div>

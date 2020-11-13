@@ -6,7 +6,7 @@
           <h1><i class="fa fa-utensils"></i> Restaurantes </h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas expedita natus consequatur dolore</p>
         </div>
-        <a href="#" class="btn btn-primary">Ingresar Nuevo</a>
+        <a href="ingr-rest.php" class="btn btn-primary">Ingresar Nuevo</a>
       </div>
       <div class="row">
         <div class="col-md-12">

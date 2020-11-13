@@ -62,6 +62,10 @@
                         <label class="control-label">Correo: </label>
                         <input class="form-control" type="email" id="" placeholder="Ingresa correo electronico">
                     </div>
+                    <div class="form-group col-md-12">
+                        <label class="control-label">Descripción: </label>
+                        <textarea class="form-control" name="" id="" cols="30" rows="1"></textarea>
+                    </div>
                     <div class="form-group col-md-12 mt-3">
                         <p class="style-p">Otros Datos</p><hr>
                     </div>
@@ -154,6 +158,14 @@
                                 </label>
                             </div>
                     </fieldset>
+                    <div class="form-group col-md-12 mt-3">
+                        <p class="style-p">Imagenes del Negocio</p><hr>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label class="control-label">Imagenes: </label>
+                        <input class="form-control" type="file" id="" placeholder="Ingresa el Nombre">
+                    </div>
+
                 </form>
                     <div class="text-center mt-3">
                         <button class="btn btn-primary">Guardar Información</button>

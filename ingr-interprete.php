@@ -34,9 +34,13 @@
                         <label class="control-label">Años de Experiencia: </label>
                         <input class="form-control" type="number" id="" >
                     </div>
-                    <div class="form-group col-md-6">
+                    <div class="form-group col-md-5">
                         <label class="control-label">Biografía: </label>
                         <textarea class="form-control" name="" id="" cols="30" rows="1"></textarea>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label class="control-label">Fotografía: </label>
+                        <input class="form-control" type="file" id="" >
                     </div>
                     <fieldset class="form-group col-md-3">
                         <legend>Idiomas</legend>
