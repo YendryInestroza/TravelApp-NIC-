@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TravelApp Nic</title>
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link href="fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0 maximum-scale=1.0, minium-scale=1.0" type="text/css">
@@ -41,11 +41,12 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav" >
                     <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link" href="index.php">INICIO</a></li>
                         <li class="nav-item"><a class="nav-link" href="hotel.php">HOTELES</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">TOURS</a></li>
-                        <li class="nav-item"><a class="nav-link" href="dash-admi-hotel.php">RESTAURANTES</a></li>
+                        <li class="nav-item"><a class="nav-link" href="tours.php">TOURS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="restaurantes.php">RESTAURANTES</a></li>
                         <li class="nav-item"><a class="nav-link" href="interprete.php">INTERPRETES</a></li>
-                        <li class="nav-item"><a class="nav-link" href="dash-admi-p.php">CONTACTO</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">CONTACTO</a></li>
                         <div class="topbar-divider d-none d-sm-block"></div>
                         <li class="nav-item"> 
                         <div class="buscar nav-link">

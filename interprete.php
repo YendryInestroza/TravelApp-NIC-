@@ -75,40 +75,13 @@
                             </div>
                             <div class="d-flex flex-row justify-content-center">
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-facebook"></i></a>
                                 </div>
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-twitter"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-twitter-square"></i></a>
                                 </div>
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <button class="btn btn-info">Ver Perfil</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6" id="c-intp">
-                    <div class="card">
-                        <div class="card-body text-center">
-                            <img src="img/foto-carnet-fondo-celeste.jpg" alt="interprete" class="img-fluid rounded-circle w-50 mb-3" srcset="">
-                            <h4>Yendry Inestroza</h4>
-                            <h6>5 años de experiencia</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur</p>
-                            <div class="d-flex flex-row justify-content-center">
-                                <a href="#"><i id="color-n" class="p-2 fa fa-flag-usa"></i></a>
-                                <a href="#"><i id="color-n" class="p-2 fa fa-flag-usa"></i></a>
-                                <a href="#"><i id="color-n" class="p-2 fa fa-flag-usa"></i></a>
-                            </div>
-                            <div class="d-flex flex-row justify-content-center">
-                                <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-facebook-f"></i></a>
-                                </div>
-                                <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-twitter"></i></a>
-                                </div>
-                                <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-instagram"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-instagram-square"></i></a>
                                 </div>
                             </div>
                             <button class="btn btn-info">Ver Perfil</button>
@@ -129,13 +102,40 @@
                             </div>
                             <div class="d-flex flex-row justify-content-center">
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-facebook"></i></a>
                                 </div>
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-twitter"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-twitter-square"></i></a>
                                 </div>
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-instagram"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-instagram-square"></i></a>
+                                </div>
+                            </div>
+                            <button class="btn btn-info">Ver Perfil</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6" id="c-intp">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <img src="img/foto-carnet-fondo-celeste.jpg" alt="interprete" class="img-fluid rounded-circle w-50 mb-3" srcset="">
+                            <h4>Yendry Inestroza</h4>
+                            <h6>5 años de experiencia</h6>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur</p>
+                            <div class="d-flex flex-row justify-content-center">
+                                <a href="#"><i id="color-n" class="p-2 fa fa-flag-usa"></i></a>
+                                <a href="#"><i id="color-n" class="p-2 fa fa-flag-usa"></i></a>
+                                <a href="#"><i id="color-n" class="p-2 fa fa-flag-usa"></i></a>
+                            </div>
+                            <div class="d-flex flex-row justify-content-center">
+                                <div class="p-2">
+                                    <a href="#"><i id="color-n" class="fab fa-facebook"></i></a>
+                                </div>
+                                <div class="p-2">
+                                    <a href="#"><i id="color-n" class="fab fa-twitter-square"></i></a>
+                                </div>
+                                <div class="p-2">
+                                    <a href="#"><i id="color-n" class="fab fa-instagram-square"></i></a>
                                 </div>
                             </div>
                             <button class="btn btn-info">Ver Perfil</button>
@@ -156,13 +156,13 @@
                             </div>
                             <div class="d-flex flex-row justify-content-center">
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-facebook"></i></a>
                                 </div>
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-twitter"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-twitter-square"></i></a>
                                 </div>
                                 <div class="p-2">
-                                    <a href="#"><i id="color-n" class="fab fa-instagram"></i></a>
+                                    <a href="#"><i id="color-n" class="fab fa-instagram-square"></i></a>
                                 </div>
                             </div>
                             <button class="btn btn-info">Ver Perfil</button>

@@ -41,7 +41,7 @@
                                 <h4 class="card-title text-center">Hotel Miramar</h4>
                                 <p class="card-text"><i class="fa fa-map-marker-alt mr-3"></i>Somoto • 300 metros al norte del reloj publico <br>
                                 <i class="fa fa-star"></i><i class="ml-3 fa fa-star"></i><br>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem magni, obcaecati assumenda</p>
-                                <div class="d-flex justify-content-end "> <a href="reservacion.php" class="btn btn-info">Ver más</a></div>        
+                                <div class="d-flex justify-content-end "> <a href="fullhotel.php" class="btn btn-info">Ver más</a></div>        
                                                    
                             </div>
                         </div>
