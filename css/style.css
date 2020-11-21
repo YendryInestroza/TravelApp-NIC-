@@ -3,6 +3,12 @@
     padding: 0%;
     margin: 0%;
 }
+.topbar-divider {
+    width: 0;
+    border-right: 1px solid #e3e6f0;
+    height: calc(4.375rem - 3rem);
+    margin: auto 1rem;
+  }
 
 footer{
     background: #1b263b;
@@ -619,4 +625,122 @@ color: #FFF;
 }
 .icon-rest:hover{
     color: #f9530a;
+}
+/*Boton Naranja*/
+#btn-naranja{
+    background: #f9530a;
+    color: #FFF;
+    border-radius: 5px;
+    border: #f9530a;
+}
+#btn-naranja:hover{
+    background:#1b263b;
+}
+
+/*Perfil usuario */
+.img-profile{
+    height: 2rem;
+    width: 2rem;
+}
+.bg-cover{
+    background: #000;
+    background: cover;
+    box-shadow: 0 0 3px #dcdada;
+}
+.cover-imagen{
+    width: 100%;
+    max-height: 250px;
+    margin: 0;
+    position: center;
+}
+#usuario{
+    text-align: center;
+    color: #808183;
+    padding: 2px;
+}
+#img-usuario img{
+    height: 14rem;
+    width: 14rem;
+    margin-top:-80px;
+
+}
+#estado{
+    text-align: center;
+    color: #808183;
+    font-size: 13px;
+}
+
+.user-tabs .nav-link.active {
+    box-shadow: 0 7px #f9530a;
+    border-bottom: 0;
+  }
+
+.icon {
+    width: 3rem;
+    height: 3rem;
+  }
+  
+  .icon i {
+    font-size: 2.25rem;
+  }
+  
+  .icon-shape {
+    display: inline-flex;
+    padding: 12px;
+    text-align: center;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .icon-shape i {
+    font-size: 1.25rem;
+  }
+  #bg-card-hotel{
+      background: #ebebe925;
+      border-radius: 5px;
+      box-shadow: 0 5px 0 #33b5e5;
+  }
+  #bg-card-tour{
+    background: #ebebe925;
+    border-radius: 5px;
+    box-shadow: 0 5px 0 #00C851;
+}
+
+/*Planes de pago*/
+.bg-planes{
+    background-image: url('../img/fondo1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#text-1{
+    font-size: 55px;
+    font-weight: bold;
+}
+.text-2{
+    color: #a25105;
+}
+#text-3{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 3%;
+}
+#bg-pago{
+    background: #162c55;
+    border-radius: 3px;
+}
+#valor{
+    color: grey;
+    font-size: 45px;
+}
+#bg-servicios{
+    background: #e2b98d9c;
+}
+.text-servicios{
+    text-align: center;
+    font-weight: 700;
+    font-size: 25;
 }

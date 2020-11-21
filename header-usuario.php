@@ -24,12 +24,24 @@
                         <a class="dropdown-item" href="#"><i class="fa fa-flag mr-2"></i>Frances</a>  
                     </div>
                 </li>
+                <li class="nav-item"><a class="nav-link text-white" href="#"><i class="fas fa-bell"></i></a></li>
                 <div class="topbar-divider d-none d-sm-block"></div>
-                <li class="nav-item"><a class="nav-link text-white" href="login.php">Iniciar Sesión</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img class="img-profile rounded-circle"  src="img/perfil.jpg">
+                    <p class="ml-2 d-none d-lg-inline text-gray">Yendry Inestroza</p></a>
+                    <div class="dropdown-menu " aria-labelledby="userDropdown">
+                        <a class="dropdown-item" href="perfil-usuario.php"><i class="fas fa-user fa-sm fa-fw mr-2"></i>Perfil</a>
+                        <a class="dropdown-item" href="perfil-usuario.php"><i class="fas fa-calendar-check fa-sm fa-fw mr-2 "></i>Reservaciones</a>
+                        <a class="dropdown-item" href="perfil-usuario.php"><i class="fas fa-cogs fa-sm fa-fw mr-2 "></i>Ajustes</a>
+                        <a class="dropdown-item  text-danger" href="#" data-toggle="modal" data-target="#logoutModal"><i class="fas fa-sign-out-alt fa-sm fa-fw mr-2"></i>Cerrar Sesión</a>
+                    </div>
+                </li>
             </ul>
         </div>
     </div>
 
+    
     
      <!--Barra de navegacion principal-->
      <nav class="navbar navbar-expand-lg navbar-light bg-light menu">
@@ -57,6 +69,8 @@
                 </div>
             </div>
         </nav>
+
+
 
 
 

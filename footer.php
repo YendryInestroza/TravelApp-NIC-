@@ -91,6 +91,11 @@
 <script src="OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js" type="text/javascript"></script>
 <script src="OwlCarousel2-2.3.4/dist/owl.carousel.js" type="text/javascript"></script>
 <script src="js/main.js"></script>
+<script type="text/javascript" src="js/plugins/chart.js"></script>
+<script type="text/javascript" src="js/plugins/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="js/plugins/dataTables.bootstrap.min.js"></script>
+ 
+
 
 <script type="text/javascript">
     $('.owl-carousel').owlCarousel({
